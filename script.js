@@ -1,4 +1,5 @@
 function showAlert() {
     // ข้อความทักทายแบบ Smart & Friendly
-    alert("ยินดีที่ได้รู้จักอย่างเป็นทางการค่ะ! \n\nฉัน 'ฐิติมา' ยินดีที่ได้พบคุณที่นี่ \nหวังว่าเราจะได้ร่วมงานหรือแลกเปลี่ยนความรู้กันนะคะ ✨");
+    alert("Welcome to my website. \n\nI'm Thitima Chueakaeo. \nI look forward to connecting and potentially working with you. ✨");
 }
+
